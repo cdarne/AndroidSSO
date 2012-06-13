@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidSSO</string>
+    <string name="logout">Log out</string>
+    <string name="login">Log in</string>
+    <string name="revoke">Revoke</string>
+    <string name="login_progress">Logging in...</string>
+    <string name="logout_progress">Logging out...</string>
+    <string name="revoke_progress">Revoking...</string>
+    <string name="extend_progress">Extending token...</string>
+    <string name="extend_token">Extend Token</string>
+    <string name="state_logged_in">Logged in</string>
+    <string name="state_logged_out">Logged out</string>
+    <string name="state_unknown">Unknown</string>
+    <string name="access_token_label">Access Token:</string>
+    <string name="state_label">State:</string>
+    <string name="get_me_progress">Getting information of me...</string>
+    <string name="get_me">Get Me!</string>
+
+</resources>
